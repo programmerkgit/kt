@@ -32,5 +32,4 @@ fi
 
 `kt a.kt`といった感じで実行できます
 
-[github](https://github.com/programmerkgit/kt) にあげています。
 インストールして`chmod +x kt`してPathを通せば実行できます。
